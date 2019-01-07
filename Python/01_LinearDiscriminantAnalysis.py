@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 
 
 # load data_set
