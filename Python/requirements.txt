@@ -1,3 +1,4 @@
 scikit-learn>=0.18
 matplotlib
 numpy
+pandas
